@@ -1,2 +1,6 @@
 streamlit
-python-dotenv
+PyPDF2
+langchain
+google-generativeai
+scikit-learn
+numpy
